@@ -9,7 +9,7 @@
  
  ## Usage
   
-  *I apologize for not submitting any screen shots, i thought i knew how to add it but i need extra help on adding it to my assets folder on git hub
+  I apologize for not submitting any screen shots, i thought i knew how to add it but i need extra help on adding it to my assets folder on git hub
   
   ## CREDITs
   *I watched Youtube videos from the creator "Fireship" on CSS tips and tricks https://www.youtube.com/watch?v=Qhaz36TZG5Y
